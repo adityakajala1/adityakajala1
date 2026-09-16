@@ -8,11 +8,11 @@ I am a software developer with a strong focus on Artificial Intelligence and Mac
 
 - **Artificial Intelligence & ML:** Python, TensorFlow, PyTorch, Deep Learning, Neural Networks
 - **Web Development:** HTML, CSS, JavaScript, TypeScript, React
-- **Programming Languages:** Java, Python, TypeScript, JavaScript
+- **Programming Languages:** C++, Java, Python, TypeScript, JavaScript
 - **Tools & Environments:** Git, GitHub, VS Code, Linux
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,ts,js,html,css,react,git,github,vscode,linux,tensorflow,pytorch" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,java,ts,js,html,css,react,git,github,vscode,linux,tensorflow,pytorch" alt="Tech Stack" />
 </p>
 
 ### Activity Graph
