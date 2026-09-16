@@ -9,15 +9,13 @@ I am a software developer with a strong focus on Artificial Intelligence and Mac
   <img src="https://skillicons.dev/icons?i=python,java,ts,js,html,css,react,git,github,vscode,linux,tensorflow,pytorch" />
 </p>
 
-### Contribution Graph (Mountains)
+### GitHub Analytics
 <p align="left">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adityakajala1/adityakajala1/output/profile-night-view.svg">
-    <img src="https://raw.githubusercontent.com/adityakajala1/adityakajala1/output/profile-green-animate.svg" alt="3D Mountains" width="800">
-  </picture>
+  <img height="165px" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=adityakajala1&show_icons=true&theme=transparent&hide_border=true&count_private=true&title_color=2F80ED&icon_color=2F80ED" alt="GitHub Stats" />
+  <img height="165px" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=adityakajala1&layout=compact&theme=transparent&hide_border=true&title_color=2F80ED" alt="Top Languages" />
 </p>
 
-### The Repo-Eating Snake
+### Contribution Graph
 <p align="left">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adityakajala1/adityakajala1/output/github-contribution-grid-snake-dark.svg">
