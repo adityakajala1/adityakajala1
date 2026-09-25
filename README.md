@@ -55,3 +55,5 @@ I am a software developer with a strong focus on Artificial Intelligence and Mac
 - **Markmint:** Check out my project at **[markmint.vercel.app](https://markmint.vercel.app)**
 - **Portfolio:** [adityakajala1.github.io/portfolio](https://adityakajala1.github.io/portfolio/)
 - **Contact:** Open to opportunities and collaborations. Reach out via my portfolio.
+
+<!-- pair contribution update -->
