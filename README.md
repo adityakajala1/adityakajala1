@@ -15,6 +15,15 @@ I am a software developer with a strong focus on Artificial Intelligence and Mac
   <img src="https://skillicons.dev/icons?i=cpp,python,java,ts,js,html,css,react,git,github,vscode,linux,tensorflow,pytorch" alt="Tech Stack" />
 </p>
 
+### Achievements
+<p align="left">
+  <a href="https://github.com/adityakajala1?tab=achievements">
+    <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="60" alt="Pull Shark" />
+    <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="60" alt="Quickdraw" />
+    <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="60" alt="YOLO" />
+  </a>
+</p>
+
 ### Activity Graph
 <p align="left">
   <img src="https://raw.githubusercontent.com/adityakajala1/adityakajala1/output/activity-graph.svg" alt="Activity Graph" width="800">
@@ -46,7 +55,3 @@ I am a software developer with a strong focus on Artificial Intelligence and Mac
 - **Markmint:** Check out my project at **[markmint.vercel.app](https://markmint.vercel.app)**
 - **Portfolio:** [adityakajala1.github.io/portfolio](https://adityakajala1.github.io/portfolio/)
 - **Contact:** Open to opportunities and collaborations. Reach out via my portfolio.
-
-<!-- achievement update -->
-
-<!-- verified contributor update -->
