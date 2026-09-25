@@ -21,6 +21,7 @@ I am a software developer with a strong focus on Artificial Intelligence and Mac
     <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="60" alt="Pull Shark" />
     <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="60" alt="Quickdraw" />
     <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="60" alt="YOLO" />
+    <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pair-extraordinaire-default.png" width="60" alt="Pair Extraordinaire" />
   </a>
 </p>
 
@@ -57,3 +58,4 @@ I am a software developer with a strong focus on Artificial Intelligence and Mac
 - **Contact:** Open to opportunities and collaborations. Reach out via my portfolio.
 
 <!-- pair contribution update -->
+
