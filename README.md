@@ -80,7 +80,7 @@
   <img src="https://img.shields.io/github/forks/adityakajala1/portfolio?style=flat&color=7dd3fc&labelColor=0f172a" />
   <img src="https://img.shields.io/github/languages/top/adityakajala1/portfolio?style=flat&color=34d399&labelColor=0f172a" />
 </p>
-<p align="center"><sub>Personal interactive developer portfolio highlighting AI projects, technical skills, and software engineering experience. Live at <a href="https://adityakajala1.github.io/portfolio/">adityakajala1.github.io/portfolio</a>.</sub></p>
+<p align="center"><sub>Personal interactive developer portfolio highlighting AI projects, technical skills, and software engineering experience. Live at <a href="https://adityakajala.vercel.app/">adityakajala.vercel.app</a>.</sub></p>
 
 </td>
 <td width="50%" valign="top">
@@ -159,11 +159,12 @@
 &ensp;
 <a href="mailto:adityakajala06@gmail.com"><img src="https://img.shields.io/badge/gmail-0f172a?style=for-the-badge&logo=gmail&logoColor=7dd3fc" /></a>
 &ensp;
-<a href="https://adityakajala1.github.io/portfolio/"><img src="https://img.shields.io/badge/portfolio-0f172a?style=for-the-badge&logo=googlechrome&logoColor=34d399" /></a>
+<a href="https://adityakajala.vercel.app/"><img src="https://img.shields.io/badge/portfolio-0f172a?style=for-the-badge&logo=googlechrome&logoColor=34d399" /></a>
 
 </div>
 
 <br/>
+
 
 
 

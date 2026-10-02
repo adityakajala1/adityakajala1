@@ -22,8 +22,9 @@
   <text x="475" y="124" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" font-size="14"><tspan fill="#ffa657">. Commits (2026): </tspan><tspan fill="#79c0ff">80+</tspan><tspan fill="#3d444d"> | </tspan><tspan fill="#ffa657">. PRs: </tspan><tspan fill="#484f58">.........</tspan><tspan fill="#79c0ff"> 5</tspan></text>
   <text x="475" y="152" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" font-size="14"><tspan fill="#ffa657">. Top Project: </tspan><tspan fill="#484f58">...</tspan><tspan fill="#c9d1d9"> markmint.vercel.app</tspan></text>
   <text x="475" y="180" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" font-size="14"><tspan fill="#ffa657">. Email: </tspan><tspan fill="#484f58">.........</tspan><tspan fill="#c9d1d9"> adityakajala06@gmail.com</tspan></text>
-  <text x="475" y="208" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" font-size="14"><tspan fill="#ffa657">. Portfolio: </tspan><tspan fill="#484f58">.....</tspan><tspan fill="#c9d1d9"> adityakajala1.github.io/portfolio</tspan></text>
+  <text x="475" y="208" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" font-size="14"><tspan fill="#ffa657">. Portfolio: </tspan><tspan fill="#484f58">.....</tspan><tspan fill="#c9d1d9"> adityakajala.vercel.app</tspan></text>
 
   <!-- Terminal prompt line at bottom -->
   <text x="35" y="250" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" font-size="13"><tspan fill="#34d399">$ </tspan><tspan fill="#7f8ea3">git commit -m "build the future with ai &amp; ml" &amp;&amp; git push</tspan></text>
 </svg>
+
