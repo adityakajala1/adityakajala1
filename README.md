@@ -10,7 +10,7 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/open%20to-internships%20%26%20collabs-34d399?style=flat&labelColor=0f172a" alt="open to work" />
+<p align="center"><strong>Open to internships &amp; collaborations</strong></p>
 
 </div>
 
@@ -164,4 +164,5 @@
 </div>
 
 <br/>
+
 
