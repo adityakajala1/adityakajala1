@@ -10,8 +10,6 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=adityakajala1&label=visitors&color=34d399&style=flat&labelColor=0f172a" alt="visitors" />
-&ensp;
 <a href="https://github.com/adityakajala1?tab=followers"><img src="https://img.shields.io/github/followers/adityakajala1?style=flat&color=7dd3fc&labelColor=0f172a&label=followers" alt="followers" /></a>
 &ensp;
 <img src="https://img.shields.io/badge/open%20to-internships%20%26%20collabs-34d399?style=flat&labelColor=0f172a" alt="open to work" />
@@ -89,18 +87,13 @@
 </td>
 <td width="50%" valign="top">
 
-<h3 align="center">☕ UC2 System</h3>
+<h3 align="center">✨ More Coming Soon</h3>
 <p align="center">
-  <a href="https://github.com/adityakajala1/uc2">
-    <img src="https://img.shields.io/badge/uc2--core-0f172a?style=for-the-badge&logo=github&logoColor=34d399" alt="repo" />
+  <a href="https://github.com/adityakajala1?tab=repositories">
+    <img src="https://img.shields.io/badge/view%20all%20repos-0f172a?style=for-the-badge&logo=github&logoColor=34d399" alt="all repos" />
   </a>
 </p>
-<p align="center">
-  <img src="https://img.shields.io/github/stars/adityakajala1/uc2?style=flat&color=34d399&labelColor=0f172a" />
-  <img src="https://img.shields.io/github/forks/adityakajala1/uc2?style=flat&color=7dd3fc&labelColor=0f172a" />
-  <img src="https://img.shields.io/github/languages/top/adityakajala1/uc2?style=flat&color=34d399&labelColor=0f172a" />
-</p>
-<p align="center"><sub>Modular Java-based backend architecture and algorithmic computing solution built for scalable data processing.</sub></p>
+<p align="center"><sub>Actively exploring real-world applications of AI/ML, neural architectures, and intelligent web systems — always building, always shipping.</sub></p>
 
 </td>
 </tr>
