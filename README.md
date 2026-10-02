@@ -1,65 +1,175 @@
-﻿# Aditya Kajala
+﻿<div align="center">
 
-**AI & Machine Learning Specialist | B.Tech CSE Student**
+<!-- ── ANIMATED HEADER & CYBER BACKGROUND ─────────────────────── -->
 
-I am a software developer with a strong focus on Artificial Intelligence and Machine Learning. I am passionate about building scalable solutions and exploring deep learning concepts.
+<img src="./header.svg" width="100%" alt="Aditya Kajala — B.Tech CSE (AI/ML)" />
 
-### Skills & Expertise
+<br/>
 
-- **Artificial Intelligence & ML:** Python, TensorFlow, PyTorch, Deep Learning, Neural Networks
-- **Web Development:** HTML, CSS, JavaScript, TypeScript, React
-- **Programming Languages:** C++, Java, Python, TypeScript, JavaScript
-- **Tools & Environments:** Git, GitHub, VS Code, Linux
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=34d399&center=true&vCenter=true&multiline=false&random=false&width=650&lines=building+ai%2Fml+systems+one+project+at+a+time;deep+learning+%E2%80%A2+neural+networks+%E2%80%A2+web+apps;minimal.+chill.+shipping+anyway.;open+to+collabs+%26+internships)](https://git.io/typing-svg)
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,python,java,ts,js,html,css,react,git,github,vscode,linux,tensorflow,pytorch" alt="Tech Stack" />
-</p>
+<br/>
 
-### Achievements
-<p align="left">
-  <a href="https://github.com/adityakajala1?tab=achievements">
-    <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="60" alt="Pull Shark" />
-    <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="60" alt="Quickdraw" />
-    <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="60" alt="YOLO" />
-    <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pair-extraordinaire-default.png" width="60" alt="Pair Extraordinaire" />
+<img src="https://komarev.com/ghpvc/?username=adityakajala1&label=visitors&color=34d399&style=flat&labelColor=0f172a" alt="visitors" />
+&ensp;
+<a href="https://github.com/adityakajala1?tab=followers"><img src="https://img.shields.io/github/followers/adityakajala1?style=flat&color=7dd3fc&labelColor=0f172a&label=followers" alt="followers" /></a>
+&ensp;
+<img src="https://img.shields.io/badge/open%20to-internships%20%26%20collabs-34d399?style=flat&labelColor=0f172a" alt="open to work" />
+
+</div>
+
+<br/>
+
+<!-- ── ABOUT ─────────────────────────────────────────────────── -->
+
+<h2 align="center">ABOUT</h2>
+
+<div align="center">
+  <img src="./dark_mode.svg" width="90%" alt="Aditya's Terminal Profile" />
+</div>
+
+<br/>
+
+<!-- ── FEATURED PROJECTS ─────────────────────────────────────── -->
+
+<h2 align="center">PROJECTS</h2>
+
+<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center">🌿 Markmint</h3>
+<p align="center">
+  <a href="https://github.com/adityakajala1/markmint">
+    <img src="https://img.shields.io/badge/markmint--app-0f172a?style=for-the-badge&logo=github&logoColor=7dd3fc" alt="repo" />
   </a>
 </p>
-
-### Activity Graph
-<p align="left">
-  <img src="https://raw.githubusercontent.com/adityakajala1/adityakajala1/output/activity-graph.svg" alt="Activity Graph" width="800">
+<p align="center">
+  <img src="https://img.shields.io/github/stars/adityakajala1/markmint?style=flat&color=34d399&labelColor=0f172a" />
+  <img src="https://img.shields.io/github/forks/adityakajala1/markmint?style=flat&color=7dd3fc&labelColor=0f172a" />
+  <img src="https://img.shields.io/github/languages/top/adityakajala1/markmint?style=flat&color=34d399&labelColor=0f172a" />
 </p>
+<p align="center"><sub>Next-generation modern Markdown productivity tool and editor designed for speed, clarity, and developer workflows. Live at <a href="https://markmint.vercel.app">markmint.vercel.app</a>.</sub></p>
 
-### Contribution Graph
-<p align="left">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adityakajala1/adityakajala1/output/github-contribution-grid-snake-dark.svg">
-    <img src="https://raw.githubusercontent.com/adityakajala1/adityakajala1/output/github-contribution-grid-snake.svg" alt="Snake animation" width="800">
-  </picture>
+</td>
+<td width="50%" valign="top">
+
+<h3 align="center">💳 Hostel Wallet</h3>
+<p align="center">
+  <a href="https://github.com/adityakajala1/hostel-wallet">
+    <img src="https://img.shields.io/badge/hostel--wallet-0f172a?style=for-the-badge&logo=github&logoColor=34d399" alt="repo" />
+  </a>
 </p>
-
-### GitHub Analytics
-<p align="left">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-anuraghazra1.vercel.app/api?username=adityakajala1&show_icons=true&hide_border=true&count_private=true&bg_color=00000000&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-anuraghazra1.vercel.app/api?username=adityakajala1&show_icons=true&hide_border=true&count_private=true&bg_color=00000000&title_color=0969DA&text_color=24292F&icon_color=0969DA">
-    <img height="165px" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=adityakajala1&show_icons=true&hide_border=true&count_private=true&bg_color=00000000&title_color=0969DA&text_color=24292F&icon_color=0969DA" alt="GitHub Stats" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=adityakajala1&layout=compact&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=C9D1D9">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=adityakajala1&layout=compact&hide_border=true&bg_color=00000000&title_color=0969DA&text_color=24292F">
-    <img height="165px" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=adityakajala1&layout=compact&hide_border=true&bg_color=00000000&title_color=0969DA&text_color=24292F" alt="Top Languages" />
-  </picture>
+<p align="center">
+  <img src="https://img.shields.io/github/stars/adityakajala1/hostel-wallet?style=flat&color=34d399&labelColor=0f172a" />
+  <img src="https://img.shields.io/github/forks/adityakajala1/hostel-wallet?style=flat&color=7dd3fc&labelColor=0f172a" />
+  <img src="https://img.shields.io/github/languages/top/adityakajala1/hostel-wallet?style=flat&color=34d399&labelColor=0f172a" />
 </p>
+<p align="center"><sub>Smart digital expense management and budget tracking application tailored for campus students and shared living arrangements.</sub></p>
 
-### Connect & Projects
-- **Markmint:** Check out my project at **[markmint.vercel.app](https://markmint.vercel.app)**
-- **Portfolio:** [adityakajala1.github.io/portfolio](https://adityakajala1.github.io/portfolio/)
-- **Contact:** Open to opportunities and collaborations. Reach out via my portfolio.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-<!-- pair contribution update -->
+<h3 align="center">⚡ Developer Portfolio</h3>
+<p align="center">
+  <a href="https://github.com/adityakajala1/portfolio">
+    <img src="https://img.shields.io/badge/portfolio--site-0f172a?style=for-the-badge&logo=github&logoColor=7dd3fc" alt="repo" />
+  </a>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/github/stars/adityakajala1/portfolio?style=flat&color=34d399&labelColor=0f172a" />
+  <img src="https://img.shields.io/github/forks/adityakajala1/portfolio?style=flat&color=7dd3fc&labelColor=0f172a" />
+  <img src="https://img.shields.io/github/languages/top/adityakajala1/portfolio?style=flat&color=34d399&labelColor=0f172a" />
+</p>
+<p align="center"><sub>Personal interactive developer portfolio highlighting AI projects, technical skills, and software engineering experience. Live at <a href="https://adityakajala1.github.io/portfolio/">adityakajala1.github.io/portfolio</a>.</sub></p>
 
+</td>
+<td width="50%" valign="top">
 
-<!-- pair unlock verification -->
+<h3 align="center">☕ UC2 System</h3>
+<p align="center">
+  <a href="https://github.com/adityakajala1/uc2">
+    <img src="https://img.shields.io/badge/uc2--core-0f172a?style=for-the-badge&logo=github&logoColor=34d399" alt="repo" />
+  </a>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/github/stars/adityakajala1/uc2?style=flat&color=34d399&labelColor=0f172a" />
+  <img src="https://img.shields.io/github/forks/adityakajala1/uc2?style=flat&color=7dd3fc&labelColor=0f172a" />
+  <img src="https://img.shields.io/github/languages/top/adityakajala1/uc2?style=flat&color=34d399&labelColor=0f172a" />
+</p>
+<p align="center"><sub>Modular Java-based backend architecture and algorithmic computing solution built for scalable data processing.</sub></p>
 
-<!-- pair clean trigger -->
+</td>
+</tr>
+</table>
+</div>
+
+<br/>
+
+<!-- ── LANGUAGES & TOOLS ─────────────────────────────────────── -->
+
+<h2 align="center">LANGUAGES & TOOLS</h2>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python,java,ts,js,html,css,react,git,github,vscode,linux,tensorflow,pytorch&theme=dark" alt="Languages and tools" />
+</div>
+
+<br/>
+
+<!-- ── ACHIEVEMENTS ──────────────────────────────────────────── -->
+
+<h2 align="center">ACHIEVEMENTS</h2>
+
+<div align="center">
+  <a href="https://github.com/adityakajala1?tab=achievements">
+    <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="65" alt="Pull Shark" />
+    &ensp;
+    <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="65" alt="Quickdraw" />
+    &ensp;
+    <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="65" alt="YOLO" />
+    &ensp;
+    <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pair-extraordinaire-default.png" width="65" alt="Pair Extraordinaire" />
+  </a>
+</div>
+
+<br/>
+
+<!-- ── ACTIVITY & CONTRIBUTIONS ──────────────────────────────── -->
+
+<h2 align="center">ACTIVITY & CONTRIBUTIONS</h2>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/adityakajala1/adityakajala1/output/activity-graph.svg" alt="Activity Graph" width="85%" />
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adityakajala1/adityakajala1/output/github-contribution-grid-snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/adityakajala1/adityakajala1/output/github-contribution-grid-snake.svg" alt="Snake animation" width="85%">
+</picture>
+
+</div>
+
+<br/>
+
+<!-- ── CONNECT ────────────────────────────────────────────────── -->
+
+<h2 align="center">CONNECT</h2>
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/aditya-kajala-375b9b389/"><img src="https://img.shields.io/badge/linkedin-0f172a?style=for-the-badge&logo=linkedin&logoColor=7dd3fc" /></a>
+&ensp;
+<a href="https://instagram.com/adipbx"><img src="https://img.shields.io/badge/instagram-0f172a?style=for-the-badge&logo=instagram&logoColor=34d399" /></a>
+&ensp;
+<a href="mailto:adityakajala06@gmail.com"><img src="https://img.shields.io/badge/gmail-0f172a?style=for-the-badge&logo=gmail&logoColor=7dd3fc" /></a>
+&ensp;
+<a href="https://adityakajala1.github.io/portfolio/"><img src="https://img.shields.io/badge/portfolio-0f172a?style=for-the-badge&logo=googlechrome&logoColor=34d399" /></a>
+
+</div>
+
+<br/>
