@@ -10,8 +10,6 @@
 
 <br/>
 
-<a href="https://github.com/adityakajala1?tab=followers"><img src="https://img.shields.io/github/followers/adityakajala1?style=flat&color=7dd3fc&labelColor=0f172a&label=followers" alt="followers" /></a>
-&ensp;
 <img src="https://img.shields.io/badge/open%20to-internships%20%26%20collabs-34d399?style=flat&labelColor=0f172a" alt="open to work" />
 
 </div>
@@ -37,7 +35,7 @@
 <tr>
 <td width="50%" valign="top">
 
-<h3 align="center">🌿 Markmint</h3>
+<h3 align="center">Markmint</h3>
 <p align="center">
   <a href="https://github.com/adityakajala1/markmint">
     <img src="https://img.shields.io/badge/markmint--app-0f172a?style=for-the-badge&logo=github&logoColor=7dd3fc" alt="repo" />
@@ -53,7 +51,7 @@
 </td>
 <td width="50%" valign="top">
 
-<h3 align="center">💳 Hostel Wallet</h3>
+<h3 align="center">Hostel Wallet</h3>
 <p align="center">
   <a href="https://github.com/adityakajala1/hostel-wallet">
     <img src="https://img.shields.io/badge/hostel--wallet-0f172a?style=for-the-badge&logo=github&logoColor=34d399" alt="repo" />
@@ -71,7 +69,7 @@
 <tr>
 <td width="50%" valign="top">
 
-<h3 align="center">⚡ Developer Portfolio</h3>
+<h3 align="center">Developer Portfolio</h3>
 <p align="center">
   <a href="https://github.com/adityakajala1/portfolio">
     <img src="https://img.shields.io/badge/portfolio--site-0f172a?style=for-the-badge&logo=github&logoColor=7dd3fc" alt="repo" />
@@ -87,7 +85,7 @@
 </td>
 <td width="50%" valign="top">
 
-<h3 align="center">✨ More Coming Soon</h3>
+<h3 align="center">More Projects</h3>
 <p align="center">
   <a href="https://github.com/adityakajala1?tab=repositories">
     <img src="https://img.shields.io/badge/view%20all%20repos-0f172a?style=for-the-badge&logo=github&logoColor=34d399" alt="all repos" />
